@@ -127,7 +127,7 @@ git-tree-sha1 = "8ad5405cc1316360a17bf9ebbcc4abbb04484edc"
 repo-rev = "master"
 repo-url = "https://github.com/probcomp/gen"
 uuid = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
-version = "0.3.1"
+version = "0.3.2"
 
 [[HTTP]]
 deps = ["Base64", "Dates", "Distributed", "IniFile", "MbedTLS", "Random", "Sockets", "Test"]
